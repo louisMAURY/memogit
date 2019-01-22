@@ -3,3 +3,6 @@ def patte():
 
 def la_tome_de_savoie():
     print("nos regions on du talent, à prix leclerc !")
+    
+def gh():
+    print("lol")
