@@ -1,7 +1,4 @@
-# soutiengit
-
-Un soutien super cool!
-
+# Memo git
 
 **Voici les commandes à retenir :**
 ```bash
